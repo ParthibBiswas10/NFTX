@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+
 ## NFTX
 
 Overview
@@ -46,7 +46,7 @@ Helps verify authenticity and contract specifications
 ## Getting Started
 
 First, run the development server:
-
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 ```bash
 npm run dev
 # or
