@@ -9,7 +9,7 @@ const Action = ({}) => {
         <div className="row">
           <div className="col-md-12">
             <div className="action__body">
-              <h2>Discover, your own NFT on blockchain</h2>
+              <h2>Hey! Let's explore your own NFT on blockchain .</h2>
               <div className="flat-button flex">
                 <a
                   href="#"
