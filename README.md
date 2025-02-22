@@ -1,3 +1,121 @@
+## NFTX
+
+Overview
+
+NFTX is a powerful tool that enables users to browse, track, and verify Non-Fungible Tokens (NFTs) on a blockchain. It provides crucial insights into NFT transactions, ownership history, and smart contract details.
+
+Features
+
+### 1. Viewing NFT Metadata
+
+Displays details such as:
+
+    NFT name
+
+    Description
+
+    Properties/traits
+
+    Media (image, video, or audio)
+
+### 2. Transaction History
+
+Tracks important events like:
+
+    Minting
+
+    Transfers
+
+    Sales
+
+Ownership changes
+
+### 3. Ownership Verification
+
+Identifies the current owner of an NFT
+Displays previous holders for provenance tracking
+
+### 4. Smart Contract Inspection
+
+Allows users to view the smart contract code and collection details
+
+Helps verify authenticity and contract specifications
+
+### 5. Viewing NFT Metadata
+
+- Displays details such as:
+  - NFT name
+  - Description
+  - Properties/traits
+  - Media (image, video, or audio)
+
+### 6. Transaction History
+
+- Tracks important events like:
+  - Minting
+  - Transfers
+  - Sales
+  - Ownership changes
+
+### 7. Ownership Verification
+
+- Identifies the **current owner** of an NFT
+- Displays previous holders for **provenance tracking**
+
+### 8. Smart Contract Inspection
+
+- Allows users to view the **smart contract code** and collection details
+- Helps verify authenticity and contract specifications
+
+### 9. Market Insights
+
+- Provides key analytics such as:
+  - **Price history**
+  - **Trading volume**
+  - **Rarity scores**
+  - **Market trends**
+
+### 10. Blockchain Exploration
+
+- Enables users to explore:
+  - **Wallet addresses**
+  - **Token transfers**
+  - **Gas fees and transaction costs**
+
+## Supported Blockchains
+
+- Popular **NFT explorers** for different blockchains include:
+  - **Ethereum**: [Etherscan](https://etherscan.io/)
+  - **Solana**: [Solscan](https://solscan.io/)
+
+## How to Use
+
+- Enter an **NFT contract address** or **token ID** to search.
+- Browse through metadata, ownership details, and transaction history.
+- Analyze market trends and rarity scores for insights.
+- Verify smart contract details and interactions.
+
+## Technologies Used
+
+- **Blockchain APIs** (Ethereum, Solana, etc.)
+- **Web3.js / ethers.js** (for interacting with smart contracts)
+- **React / Next.js** (for front-end UI)
+- **Node.js / Express** (for backend processing)
+
+## Future Enhancements
+
+- **Multi-chain support** (Polygon, Binance Smart Chain, etc.)
+- **NFT portfolio tracking**
+- **AI-powered rarity and price predictions**
+
+## Contributing
+
+- Contributions are welcome! Feel free to submit issues and pull requests to improve the **NFT Explorer**.
+
+## License
+
+- This project is licensed under the **MIT License**.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
@@ -38,47 +156,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
-
-## NFTX
-
-Overview
-
-NFTX is a powerful tool that enables users to browse, track, and verify Non-Fungible Tokens (NFTs) on a blockchain. It provides crucial insights into NFT transactions, ownership history, and smart contract details.
-
-Features
-
-1. Viewing NFT Metadata
-
-Displays details such as:
-
-NFT name
-
-Description
-
-Properties/traits
-
-Media (image, video, or audio)
-
-2. Transaction History
-
-Tracks important events like:
-
-Minting
-
-Transfers
-
-Sales
-
-Ownership changes
-
-3. Ownership Verification
-
-Identifies the current owner of an NFT
-
-Displays previous holders for provenance tracking
-
-4. Smart Contract Inspection
-
-Allows users to view the smart contract code and collection details
-
-Helps verify authenticity and contract specifications
