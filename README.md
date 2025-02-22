@@ -1,8 +1,8 @@
-# NFT Explorer
+# NFTX
 
 ## Overview
 
-An **NFT Explorer** is a powerful tool that enables users to browse, track, and verify **Non-Fungible Tokens (NFTs)** on a blockchain. It provides crucial insights into NFT transactions, ownership history, and smart contract details.
+An **NFTX** is a powerful tool that enables users to browse, track, and verify **Non-Fungible Tokens (NFTs)** on a blockchain. It provides crucial insights into NFT transactions, ownership history, and smart contract details.
 
 ## Features
 
