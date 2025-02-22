@@ -84,7 +84,7 @@ Helps verify authenticity and contract specifications
 
 ## Supported Blockchains
 
-- Popular **NFT explorers** for different blockchains include:
+- NFTX is like other **NFT explorers** for different blockchains include:
   - **Ethereum**: [Etherscan](https://etherscan.io/)
   - **Solana**: [Solscan](https://solscan.io/)
 
