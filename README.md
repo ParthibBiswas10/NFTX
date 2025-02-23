@@ -1,5 +1,9 @@
 ## NFTX 
 
+
+https://github.com/user-attachments/assets/ed684adc-04cc-418e-956c-609ba1b3e754
+
+
 Overview
 
 NFTX is a powerful tool that enables users to browse, track, and verify Non-Fungible Tokens (NFTs) on a blockchain. It provides crucial insights into NFT transactions, ownership history, and smart contract details.
